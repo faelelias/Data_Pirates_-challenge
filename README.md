@@ -1,4 +1,4 @@
-# Data_Pirates_-challenge
+# Data_Pirates_challenge
 Data Pirates Challenge Resolved!
 
 ## Dependências
@@ -16,8 +16,11 @@ python3 -m pip install -r requirements.txt
 - --second / --s  comando requer UF desejada.
 - --quantity / --qtd requer a quantidade de cep a ser baixado
 
+## obs: 
+- Consulta minima 50 CEPs. 
 
 ## comand to run
+
 ```
- python3 correio.py --f "Sao Paulo" --s "Rio de Janeiro" --qtd 500
+ python3 correio.py --f "Sao Paulo" --s "Rio de Janeiro" --qtd 300
 ```
