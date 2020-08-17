@@ -12,9 +12,9 @@ python3 -m pip install -r requirements.txt
 ```
 ## Argumentos requeridos
 
---first / --f  comando requer UF desejada. 
---second / --s  comando requer UF desejada.
---quantity / --qtd requer a quantidade de cep a ser baixado
+- --first / --f  comando requer UF desejada. 
+- --second / --s  comando requer UF desejada.
+- --quantity / --qtd requer a quantidade de cep a ser baixado
 
 
 ## comand to run
