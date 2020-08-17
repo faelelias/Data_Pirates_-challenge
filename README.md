@@ -1,6 +1,10 @@
 # Data_Pirates_challenge
 Data Pirates Challenge Resolved!
 
+- Projeto desenvolvido na SO linux 64 bits , utilizando browser  google chrome  versão 84.0.4147.125 64bits.
+- Utilizado chromedriver na versão 84.0.4147.30.
+
+
 ## Dependências
 * pytest==6.0.1
 * selenium==3.141.0
